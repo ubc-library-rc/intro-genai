@@ -3,6 +3,7 @@ layout: default
 title: Outline
 nav_order: 1
 ---
+# Introduction to Generative AI tools for Student Research
 
 ## Note: this workshop is in development and not yet complete.
 
@@ -29,4 +30,4 @@ At the end of this workshop, you will be able to:
 
 ## Resources
 * [eg. link to external slides]
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXcWRRR1sDT0IqAbT3wqwW_BBsyhWMz4NHFZ3COk79UaEydMPPvD2xkP5PFyWtB92225ofPzKSJi8B/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXcWRRR1sDT0IqAbT3wqwW_BBsyhWMz4NHFZ3COk79UaEydMPPvD2xkP5PFyWtB92225ofPzKSJi8B/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
