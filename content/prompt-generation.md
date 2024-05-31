@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Introduction
+title: Working with GenAI tools
 nav_order: 4
 ---
-# Prompt Design
+# Working with GenAI tools
+## Prompt Design
 <img src="images/prompt-design-image.png" style="float:right;width:320px;" alt="A student at a computer learning effective GenAI prompt design">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
