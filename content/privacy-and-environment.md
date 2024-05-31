@@ -1,5 +1,9 @@
-
-# Privacy, The Environment & Generative AI Tools
+---
+layout: default
+title: Privacy, the Environment, and GenAI tools
+nav_order: 4
+---
+# Privacy, the Environment & Generative AI Tools
 "The use of user prompts as training data for Generative AI tools raises significant privacy concerns. When personal information is included in training datasets, it can lead to unintended disclosures and misuse. Users must be aware of how their data is used and protected to ensure their privacy is maintained." ([ChatGPT 4.0, 2024](https://chat.openai.com/share/f84eb3ac-b9be-435c-ae38-9676702a02f9){:target="_blank"})
 
 The source for this activity is [Christian Schmidt's excellent AI resources](https://www.canva.com/design/DAF8EoHZ_kA/N4d3y1TPeF5LklU9sj6_YQ/edit){:target="_blank"}.
